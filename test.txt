@@ -1,0 +1,8 @@
+Ubuntu 16.04-Mint 18 installations for Java Maven Eclipse Kotlin Gradle
+https://gist.github.com/ansell/3606df67ccd89bf9d2e7
+
+Complete Node Reinstall
+https://gist.github.com/brock/5b1b70590e1171c4ab54
+
+nodejs-cheatsheet.js
+https://gist.github.com/LeCoupa/985b82968d8285987dc3
